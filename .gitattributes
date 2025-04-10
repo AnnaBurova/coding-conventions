@@ -182,6 +182,7 @@ Procfile  text  eol=lf
 ## ARCHIVES ##################################################################################### ##
 
 *.7z  merge=binary
+*.bin  merge=binary
 *.gz  merge=binary
 *.rar  merge=binary
 *.tar  merge=binary
