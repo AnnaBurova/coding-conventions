@@ -19,9 +19,5 @@
     "editor.wordWrapColumn": 120,
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.lineHeight": 1,
-    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
-    "git.ignoreLimitWarning": true,
-    "python.analysis.typeCheckingMode": "basic",
-    "python.analysis.autoImportCompletions": true,
-    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "git.ignoreLimitWarning": true
 }
